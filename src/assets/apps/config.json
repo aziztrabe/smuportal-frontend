@@ -18,5 +18,17 @@
     "appName": "Admin Dashboard",
     "iconUrl": "users.png",
     "path": "/apps/admin"
+  },
+  {
+    "appName": "Medchat",
+    "iconUrl": "users.png",
+    "path": "/apps/medchat"
+  },
+  {
+    "appName": "book management system",
+    "iconUrl": "users.png",
+    "path": "/apps/bms"
   }
+    
+
 ]
